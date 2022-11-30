@@ -1,4 +1,0 @@
-sym = :hello 
-
-p sym
-
