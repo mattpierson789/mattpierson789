@@ -4,7 +4,8 @@
 # **<div align="left">Introduction</div>**
 
 - 👀 **I’m interested in**: Contributing to Web 3 projects or participating in hackathons.
-- 💻 **I’m currently working on**: The Strategic Finance Team at X.
+- 💻 **I’m currently working at**:  Strategic Finance Team at X.
+- 👀 **I’m currently working on**:  my 3 projects, Life Soundtrack, WaterBnb, and Soundspace
 - 📫 **How to reach me**: Email me at [matt.pierson.dev@gmail.com](mailto:matt.pierson.dev@gmail.com) or follow me on [Twitter @matt_pierson_](https://twitter.com/matt_pierson_).
 - 🍎 **Past Experience**: I've worked in TMT Corporate Banking at BofA and as a core contributor to Maple Finance.
 - 🌱 **I’m currently learning**: Solidity and the fundamentals of blockchain development.
