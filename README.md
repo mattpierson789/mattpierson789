@@ -1,7 +1,7 @@
 ### Hi I'm Matt Pierson 👋
 
 
-# **<div align="center">Introduction</div>**
+# **<div align="left">Introduction</div>**
 
 - 👀 **I’m interested in**: Contributing to Web 3 projects or participating in hackathons.
 - 💻 **I’m currently working on**: The Strategic Finance Team at X.
